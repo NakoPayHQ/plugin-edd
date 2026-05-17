@@ -3,7 +3,7 @@
  * Plugin Name: NakoPay for Easy Digital Downloads
  * Plugin URI:  https://nakopay.com/integrations/edd
  * Description: Accept Bitcoin and crypto for EDD downloads. Non-custodial, wallet-to-wallet.
- * Version:     0.1.0
+ * Version: 0.2.0
  * Author:      NakoPay
  * Author URI:  https://nakopay.com
  * License:     MIT
